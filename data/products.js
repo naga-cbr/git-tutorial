@@ -1,4 +1,4 @@
-console.log("testing updated");
+console.log("testing updated from newly cloned project");
 
 export const products = [
   {
