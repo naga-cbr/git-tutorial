@@ -1,3 +1,6 @@
+console.log("testing updated");
+
+
 export let cart = JSON.parse(localStorage.getItem('cart'));
 
 if(!cart){
